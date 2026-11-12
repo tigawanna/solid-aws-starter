@@ -1,0 +1,8 @@
+{
+  "name": "@solid-aws-starter/hello",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  }
+}
